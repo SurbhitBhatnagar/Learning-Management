@@ -1,8 +1,6 @@
 ## 1. Introduction
 
-This repository is originally used for Yu Shu's record of 2017-Spring CMPE-207 project.
-
-It is a network based learning management system. (something like Canvas or Blackboard).
+The project is a network based learning management system. (something like Canvas or Blackboard).
 
 The overview
 
